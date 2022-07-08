@@ -24,7 +24,7 @@ class App extends BaseConfig
      *
      * @var string
      */
-    public $baseURL = 'htpps://parfait.lunarteam.net';
+    public $baseURL = 'https://parfait.lunarteam.net/';
 
     /**
      * --------------------------------------------------------------------------
